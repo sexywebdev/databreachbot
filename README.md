@@ -3,12 +3,12 @@
 ## The bot is easy to use and can be customized to meet the specific needs of any organization. It can be used by organizations of all sizes, from small businesses to large enterprises.
 
 Here are some of the benefits of using our Data Breach Bot:
-```
-  Helps organizations identify and mitigate data leaks.
-  Can be used to prevent data leaks from happening in the first place.
-  Easy to use and can be customized to meet the specific needs of any organization.
-  Affordable and scalable.
-```
+
+  ```Helps organizations identify and mitigate data leaks.```
+  ```Can be used to prevent data leaks from happening in the first place.```
+  ```Easy to use and can be customized to meet the specific needs of any organization.```
+  ```Affordable and scalable.```
+
 ## If you are looking for a way to protect your organization from data leaks, Our bot is a great option.
 
 Here are some specific examples of how the bot can be used:
